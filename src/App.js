@@ -24,7 +24,7 @@ function App() {
   ];
 
   return (
-      <Expenses expenses={expenses} />
+      <Expenses items={expenses} />
   );
 }
 
